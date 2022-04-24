@@ -1,6 +1,6 @@
 import { createClient, createMicrophoneAndCameraTracks } from "agora-rtc-react";
 
-export const api = "https://testsystemserver.herokuapp.com/api";
+export const api = "https://examsystemserver.herokuapp.com/api";
 
 // Agora Constants START //
 export const APP_ID = "0522286a30694cb49a55f640cd868324";
